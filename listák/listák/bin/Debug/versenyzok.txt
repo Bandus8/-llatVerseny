@@ -1,0 +1,15 @@
+Baranyai Anna;építész
+Zalai Zalán;informatikus
+Nógrádi Viktor;informatikus
+Békési Emőke;gépész
+Vas Ágnes;környezetmérnök
+Komáromi Konrád;környezetmérnök
+Somogyi Norbert;építész
+Fejér Károly;gépész
+Szabolcs Andrea;informatikus
+Borsodi Gábor;környezetmérnök
+Hevesi Béla;informatikus
+Hajdú Sándor;informatikus
+Tolnai Benedek;informatikus
+Pesti Bence;informatikus
+Csongrádi Rózsa;építész

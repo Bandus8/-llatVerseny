@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\listák\listák\bin\Debug\listák.exe.config
+C:\Users\User\source\repos\listák\listák\bin\Debug\listák.exe
+C:\Users\User\source\repos\listák\listák\bin\Debug\listák.pdb
+C:\Users\User\source\repos\listák\listák\obj\Debug\listák.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\listák\listák\obj\Debug\listák.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\listák\listák\obj\Debug\listák.exe
+C:\Users\User\source\repos\listák\listák\obj\Debug\listák.pdb
