@@ -1,0 +1,7 @@
+kutya;Bodri;2019;10113
+kutya;Rexi;2022;12310
+macska;Cirmos;2020;10123;true
+kutya;Pamacs;2021;213123
+macska;Bolhazsák;2022;212312;true
+kutya;Buksi;2019;123132
+macska;Picúr;2021;01312;false
