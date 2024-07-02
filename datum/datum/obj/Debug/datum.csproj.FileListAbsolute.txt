@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Új mappa\datum\datum\bin\Debug\datum.exe.config
+C:\Users\User\Desktop\Új mappa\datum\datum\bin\Debug\datum.exe
+C:\Users\User\Desktop\Új mappa\datum\datum\bin\Debug\datum.pdb
+C:\Users\User\Desktop\Új mappa\datum\datum\obj\Debug\datum.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Új mappa\datum\datum\obj\Debug\datum.Form1.resources
+C:\Users\User\Desktop\Új mappa\datum\datum\obj\Debug\datum.Properties.Resources.resources
+C:\Users\User\Desktop\Új mappa\datum\datum\obj\Debug\datum.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Új mappa\datum\datum\obj\Debug\datum.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Új mappa\datum\datum\obj\Debug\datum.exe
+C:\Users\User\Desktop\Új mappa\datum\datum\obj\Debug\datum.pdb
