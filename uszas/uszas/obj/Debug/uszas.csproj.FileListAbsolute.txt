@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Új mappa\uszas\uszas\bin\Debug\uszas.exe.config
+C:\Users\User\Desktop\Új mappa\uszas\uszas\bin\Debug\uszas.exe
+C:\Users\User\Desktop\Új mappa\uszas\uszas\bin\Debug\uszas.pdb
+C:\Users\User\Desktop\Új mappa\uszas\uszas\obj\Debug\uszas.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Új mappa\uszas\uszas\obj\Debug\uszas.Form1.resources
+C:\Users\User\Desktop\Új mappa\uszas\uszas\obj\Debug\uszas.Properties.Resources.resources
+C:\Users\User\Desktop\Új mappa\uszas\uszas\obj\Debug\uszas.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Új mappa\uszas\uszas\obj\Debug\uszas.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Új mappa\uszas\uszas\obj\Debug\uszas.exe
+C:\Users\User\Desktop\Új mappa\uszas\uszas\obj\Debug\uszas.pdb
