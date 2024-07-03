@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Új mappa\pizzeria\pizzeria\obj\Debug\pizzeria.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Új mappa\pizzeria\pizzeria\obj\Debug\pizzeria.Pizzéria.resources
+C:\Users\User\Desktop\Új mappa\pizzeria\pizzeria\obj\Debug\pizzeria.Properties.Resources.resources
+C:\Users\User\Desktop\Új mappa\pizzeria\pizzeria\obj\Debug\pizzeria.UserControl1.resources
+C:\Users\User\Desktop\Új mappa\pizzeria\pizzeria\obj\Debug\pizzeria.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Új mappa\pizzeria\pizzeria\obj\Debug\pizzeria.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Új mappa\pizzeria\pizzeria\bin\Debug\pizzeria.exe.config
+C:\Users\User\Desktop\Új mappa\pizzeria\pizzeria\bin\Debug\pizzeria.exe
+C:\Users\User\Desktop\Új mappa\pizzeria\pizzeria\bin\Debug\pizzeria.pdb
+C:\Users\User\Desktop\Új mappa\pizzeria\pizzeria\obj\Debug\pizzeria.exe
+C:\Users\User\Desktop\Új mappa\pizzeria\pizzeria\obj\Debug\pizzeria.pdb

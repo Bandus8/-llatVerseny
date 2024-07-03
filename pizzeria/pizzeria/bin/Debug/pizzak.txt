@@ -1,0 +1,20 @@
+Margherita; 1200; 2000  
+Hawaii; 1500; 2500  
+Pepperoni; 1600; 2600  
+Quattro Formaggi; 1800; 2800  
+BBQ Csirke; 1700; 2700  
+Vegetáriánus; 1400; 2400  
+Sonkás-Gombás; 1500; 2500  
+Mexikói; 1600; 2600  
+Tonhalas; 1700; 2700  
+Szalámis; 1600; 2600  
+Capricciosa; 1500; 2500  
+Tenger Gyümölcsei; 1800; 2800  
+Prosciutto; 1600; 2600  
+Diavola; 1700; 2700  
+Carbonara; 1600; 2600  
+Füstölt sonka; 1700; 2700  
+Pesto-s Csirke; 1800; 2800  
+Füstölt Szalonna; 1600; 2600  
+Gorgonzola; 1800; 2800  
+Spenótos-Feta; 1500; 2500
