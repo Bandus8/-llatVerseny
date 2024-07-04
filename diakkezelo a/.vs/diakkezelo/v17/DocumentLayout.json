@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\u00DAj mappa\\diakkezelo\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\u00DAj mappa\\-llatVerseny\\diakkezelo a\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{61308ED3-FBF2-4E99-AC9D-007CBC16C5F2}|diakkezelo\\diakkezelo.csproj|c:\\users\\user\\desktop\\\u00FAj mappa\\diakkezelo\\diakkezelo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61308ED3-FBF2-4E99-AC9D-007CBC16C5F2}|diakkezelo\\diakkezelo.csproj|c:\\users\\user\\desktop\\\u00FAj mappa\\-llatverseny\\diakkezelo a\\diakkezelo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61308ED3-FBF2-4E99-AC9D-007CBC16C5F2}|diakkezelo\\diakkezelo.csproj|solutionrelative:diakkezelo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61308ED3-FBF2-4E99-AC9D-007CBC16C5F2}|diakkezelo\\diakkezelo.csproj|c:\\users\\user\\desktop\\\u00FAj mappa\\diakkezelo\\diakkezelo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{61308ED3-FBF2-4E99-AC9D-007CBC16C5F2}|diakkezelo\\diakkezelo.csproj|solutionrelative:diakkezelo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61308ED3-FBF2-4E99-AC9D-007CBC16C5F2}|diakkezelo\\diakkezelo.csproj|c:\\users\\user\\desktop\\\u00FAj mappa\\diakkezelo\\diakkezelo\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61308ED3-FBF2-4E99-AC9D-007CBC16C5F2}|diakkezelo\\diakkezelo.csproj|C:\\Users\\User\\Desktop\\\u00DAj mappa\\-llatVerseny\\diakkezelo a\\diakkezelo\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61308ED3-FBF2-4E99-AC9D-007CBC16C5F2}|diakkezelo\\diakkezelo.csproj|solutionrelative:diakkezelo\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61308ED3-FBF2-4E99-AC9D-007CBC16C5F2}|diakkezelo\\diakkezelo.csproj|c:\\users\\user\\desktop\\\u00FAj mappa\\diakkezelo\\diakkezelo\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{61308ED3-FBF2-4E99-AC9D-007CBC16C5F2}|diakkezelo\\diakkezelo.csproj|C:\\Users\\User\\Desktop\\\u00DAj mappa\\-llatVerseny\\diakkezelo a\\diakkezelo\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{61308ED3-FBF2-4E99-AC9D-007CBC16C5F2}|diakkezelo\\diakkezelo.csproj|solutionrelative:diakkezelo\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61308ED3-FBF2-4E99-AC9D-007CBC16C5F2}|diakkezelo\\diakkezelo.csproj|c:\\users\\user\\desktop\\\u00FAj mappa\\diakkezelo\\diakkezelo\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61308ED3-FBF2-4E99-AC9D-007CBC16C5F2}|diakkezelo\\diakkezelo.csproj|C:\\Users\\User\\Desktop\\\u00DAj mappa\\-llatVerseny\\diakkezelo a\\diakkezelo\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61308ED3-FBF2-4E99-AC9D-007CBC16C5F2}|diakkezelo\\diakkezelo.csproj|solutionrelative:diakkezelo\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61308ED3-FBF2-4E99-AC9D-007CBC16C5F2}|diakkezelo\\diakkezelo.csproj|C:\\Users\\User\\Desktop\\\u00DAj mappa\\-llatVerseny\\diakkezelo a\\diakkezelo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61308ED3-FBF2-4E99-AC9D-007CBC16C5F2}|diakkezelo\\diakkezelo.csproj|solutionrelative:diakkezelo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +34,11 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "UserControl1.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u00DAj mappa\\diakkezelo\\diakkezelo\\UserControl1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u00DAj mappa\\-llatVerseny\\diakkezelo a\\diakkezelo\\UserControl1.cs",
               "RelativeDocumentMoniker": "diakkezelo\\UserControl1.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u00DAj mappa\\diakkezelo\\diakkezelo\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u00DAj mappa\\-llatVerseny\\diakkezelo a\\diakkezelo\\UserControl1.cs",
               "RelativeToolTip": "diakkezelo\\UserControl1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -47,11 +47,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "UserControl1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u00DAj mappa\\diakkezelo\\diakkezelo\\UserControl1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u00DAj mappa\\-llatVerseny\\diakkezelo a\\diakkezelo\\UserControl1.cs",
               "RelativeDocumentMoniker": "diakkezelo\\UserControl1.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u00DAj mappa\\diakkezelo\\diakkezelo\\UserControl1.cs [Design]",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u00DAj mappa\\-llatVerseny\\diakkezelo a\\diakkezelo\\UserControl1.cs [Design]",
               "RelativeToolTip": "diakkezelo\\UserControl1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-04T07:48:31.468Z",
@@ -59,13 +59,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u00DAj mappa\\diakkezelo\\diakkezelo\\Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u00DAj mappa\\-llatVerseny\\diakkezelo a\\diakkezelo\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "diakkezelo\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u00DAj mappa\\diakkezelo\\diakkezelo\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u00DAj mappa\\-llatVerseny\\diakkezelo a\\diakkezelo\\Form1.Designer.cs",
               "RelativeToolTip": "diakkezelo\\Form1.Designer.cs",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAswFkAAABWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-04T07:36:27.519Z",
               "EditorCaption": ""
@@ -74,22 +74,22 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u00DAj mappa\\diakkezelo\\diakkezelo\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u00DAj mappa\\-llatVerseny\\diakkezelo a\\diakkezelo\\Form1.cs",
               "RelativeDocumentMoniker": "diakkezelo\\Form1.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u00DAj mappa\\diakkezelo\\diakkezelo\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u00DAj mappa\\-llatVerseny\\diakkezelo a\\diakkezelo\\Form1.cs",
               "RelativeToolTip": "diakkezelo\\Form1.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAgwEsAAAAvAAAA",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAmwHcAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-04T07:33:01.022Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u00DAj mappa\\diakkezelo\\diakkezelo\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u00DAj mappa\\-llatVerseny\\diakkezelo a\\diakkezelo\\Form1.cs",
               "RelativeDocumentMoniker": "diakkezelo\\Form1.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u00DAj mappa\\diakkezelo\\diakkezelo\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u00DAj mappa\\-llatVerseny\\diakkezelo a\\diakkezelo\\Form1.cs [Design]",
               "RelativeToolTip": "diakkezelo\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-04T06:54:25.763Z",

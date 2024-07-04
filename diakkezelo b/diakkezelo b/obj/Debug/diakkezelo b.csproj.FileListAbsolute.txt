@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Új mappa\diakkezelo b\diakkezelo b\bin\Debug\diakkezelo b.exe.config
+C:\Users\User\Desktop\Új mappa\diakkezelo b\diakkezelo b\bin\Debug\diakkezelo b.exe
+C:\Users\User\Desktop\Új mappa\diakkezelo b\diakkezelo b\bin\Debug\diakkezelo b.pdb
+C:\Users\User\Desktop\Új mappa\diakkezelo b\diakkezelo b\obj\Debug\diakkezelo b.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Új mappa\diakkezelo b\diakkezelo b\obj\Debug\diakkezelo_b.Form1.resources
+C:\Users\User\Desktop\Új mappa\diakkezelo b\diakkezelo b\obj\Debug\diakkezelo_b.Properties.Resources.resources
+C:\Users\User\Desktop\Új mappa\diakkezelo b\diakkezelo b\obj\Debug\diakkezelo b.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Új mappa\diakkezelo b\diakkezelo b\obj\Debug\diakkezelo b.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Új mappa\diakkezelo b\diakkezelo b\obj\Debug\diakkezelo b.exe
+C:\Users\User\Desktop\Új mappa\diakkezelo b\diakkezelo b\obj\Debug\diakkezelo b.pdb
