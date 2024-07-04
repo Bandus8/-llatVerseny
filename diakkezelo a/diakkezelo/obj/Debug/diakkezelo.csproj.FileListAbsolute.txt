@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Új mappa\diakkezelo\diakkezelo\bin\Debug\diakkezelo.exe.config
+C:\Users\User\Desktop\Új mappa\diakkezelo\diakkezelo\bin\Debug\diakkezelo.exe
+C:\Users\User\Desktop\Új mappa\diakkezelo\diakkezelo\bin\Debug\diakkezelo.pdb
+C:\Users\User\Desktop\Új mappa\diakkezelo\diakkezelo\obj\Debug\diakkezelo.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Új mappa\diakkezelo\diakkezelo\obj\Debug\diakkezelo.Form1.resources
+C:\Users\User\Desktop\Új mappa\diakkezelo\diakkezelo\obj\Debug\diakkezelo.Properties.Resources.resources
+C:\Users\User\Desktop\Új mappa\diakkezelo\diakkezelo\obj\Debug\diakkezelo.UserControl1.resources
+C:\Users\User\Desktop\Új mappa\diakkezelo\diakkezelo\obj\Debug\diakkezelo.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Új mappa\diakkezelo\diakkezelo\obj\Debug\diakkezelo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Új mappa\diakkezelo\diakkezelo\obj\Debug\diakkezelo.exe
+C:\Users\User\Desktop\Új mappa\diakkezelo\diakkezelo\obj\Debug\diakkezelo.pdb
