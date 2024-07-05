@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Új mappa\retoxikáló\retoxikáló\bin\Debug\retoxikáló.exe.config
+C:\Users\User\Desktop\Új mappa\retoxikáló\retoxikáló\bin\Debug\retoxikáló.exe
+C:\Users\User\Desktop\Új mappa\retoxikáló\retoxikáló\bin\Debug\retoxikáló.pdb
+C:\Users\User\Desktop\Új mappa\retoxikáló\retoxikáló\obj\Debug\retoxikáló.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Új mappa\retoxikáló\retoxikáló\obj\Debug\retoxikáló.Form1.resources
+C:\Users\User\Desktop\Új mappa\retoxikáló\retoxikáló\obj\Debug\retoxikáló.Properties.Resources.resources
+C:\Users\User\Desktop\Új mappa\retoxikáló\retoxikáló\obj\Debug\retoxikáló.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Új mappa\retoxikáló\retoxikáló\obj\Debug\retoxikáló.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Új mappa\retoxikáló\retoxikáló\obj\Debug\retoxikáló.exe
+C:\Users\User\Desktop\Új mappa\retoxikáló\retoxikáló\obj\Debug\retoxikáló.pdb
+C:\Users\User\Desktop\Új mappa\retoxikáló\retoxikáló\obj\Debug\retoxikáló.Form2.resources
+C:\Users\User\Desktop\Új mappa\retoxikáló\retoxikáló\obj\Debug\retoxikáló.Form3.resources
+C:\Users\User\Desktop\Új mappa\retoxikáló\retoxikáló\obj\Debug\retoxikáló.Form4.resources

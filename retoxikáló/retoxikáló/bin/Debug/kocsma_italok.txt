@@ -1,0 +1,20 @@
+Sör;500
+Bor;700
+Vodka;800
+Whisky;1200
+Rum;900
+Gin;1000
+Tequila;1100
+Brandy;1300
+Likőr;850
+Koktél;1500
+Pálinka;1000
+Martini;1200
+Sangria;950
+Fröccs;600
+Cider;750
+Almás sör;700
+Sörkoktél;800
+Kézműves sör;1000
+Jägermeister;900
+Baileys;1000
