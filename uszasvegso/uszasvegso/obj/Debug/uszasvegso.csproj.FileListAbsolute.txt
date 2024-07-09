@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Új mappa\uszasvegso\uszasvegso\bin\Debug\uszasvegso.exe.config
+C:\Users\User\Desktop\Új mappa\uszasvegso\uszasvegso\bin\Debug\uszasvegso.exe
+C:\Users\User\Desktop\Új mappa\uszasvegso\uszasvegso\bin\Debug\uszasvegso.pdb
+C:\Users\User\Desktop\Új mappa\uszasvegso\uszasvegso\obj\Debug\uszasvegso.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Új mappa\uszasvegso\uszasvegso\obj\Debug\uszasvegso.EredményForm.resources
+C:\Users\User\Desktop\Új mappa\uszasvegso\uszasvegso\obj\Debug\uszasvegso.Form1.resources
+C:\Users\User\Desktop\Új mappa\uszasvegso\uszasvegso\obj\Debug\uszasvegso.Properties.Resources.resources
+C:\Users\User\Desktop\Új mappa\uszasvegso\uszasvegso\obj\Debug\uszasvegso.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Új mappa\uszasvegso\uszasvegso\obj\Debug\uszasvegso.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Új mappa\uszasvegso\uszasvegso\obj\Debug\uszasvegso.exe
+C:\Users\User\Desktop\Új mappa\uszasvegso\uszasvegso\obj\Debug\uszasvegso.pdb
+C:\Users\User\Desktop\Új mappa\uszasvegso\uszasvegso\obj\Debug\uszasvegso.VersenyForm.resources
